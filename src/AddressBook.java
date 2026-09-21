@@ -5,7 +5,9 @@ public class AddressBook {
         System.out.println("Address Book");
     }
 
-
+    public void removeBuddy(BuddyInfo buddy){
+        buddies.remove(buddy);
+    }
 
 
 }
