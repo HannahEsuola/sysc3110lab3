@@ -22,5 +22,5 @@ public class AddressBook {
         buddies.remove(buddy);
     }
 
-
+    //this is a code comment.
 }
